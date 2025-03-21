@@ -18,7 +18,7 @@ I'm spencer, a student at Brigham Young University-Idaho interested in <Your Pro
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](www.linkedin.com/in/spencer-quiner-423ba085) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/spencer-quiner-423ba085) profile
 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
