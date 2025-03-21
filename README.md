@@ -3,18 +3,18 @@
 
 Hello, GitHub! 👋
 
-I'm spencer, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm spencer, a student at Brigham Young University-Idaho interested in software development, computer science, and machine learning. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
+- I'm currently learning about software development and database design and managment.
 - My goals are to ...
 - Ask me about ...
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Experience with: HTML5, CSS, Python, C#, C++
+- Skills: Proactive, Hard working, Quick Learner, Team Player
 
 ## Let's Connect!
 
